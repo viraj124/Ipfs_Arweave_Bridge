@@ -24,4 +24,4 @@ I have commited all the final changes, if there are any queries do let me know.
 
 FYI - I am not a UI Design Person:)
 
-UI Endpoints --> http://localhost:3000 & http://localhost:3000/getdata
+UI Endpoints --> http://localhost:3000 & http://localhost:3000/data
