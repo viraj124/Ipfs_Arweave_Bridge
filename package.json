@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "arweave": "^1.6.0",
+    "arweave": "^1.15.7",
     "ipfs-api": "^26.1.2",
     "ipfs-http-client": "^40.0.0",
     "react": "^16.12.0",
